@@ -18,7 +18,7 @@ This Go script provides a simple utility to reset all network adapters on a Wind
 ## Installation
 
 1. Clone this repository or download the script:
-git clone https://github.com/yourusername/windows-network-reset.git
+git clone https://github.com/QoSz/win-net-adapter-reset.git
 cd windows-network-reset
 
 2. No additional dependencies are required beyond the Go standard library.
